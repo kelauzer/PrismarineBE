@@ -1,7 +1,7 @@
-# PrismarineBE
+# PrismarineBE Multiversion
 Minecraft Bedrock Edition server software
 
-This is the first version, can be a lot of bugs
+I have to do this, but not yet. Now you can use only master branch
 
 # How can i start my server?
 Very easy! Just create a new folder and extract the contents of the archive into it.
